@@ -78,6 +78,10 @@ TensorFlow Simple Object Detection with Webcam on a Mac.
     5. Test API
         
        `python object_detection/builders/model_builder_tf2_test.py`
+       
+    6. Create s symbolic link to *object_detection* directory
+    
+       `ln -s /opt/anaconda3/envs/myenv/models/research/object_detection ~/TensorFlow-AI-Simple-Object-Detection-Webcam/`
 
 #### Run Program
   - Change into *TensorFlow-AI-Simple-Object-Detection-Webcam* directory
