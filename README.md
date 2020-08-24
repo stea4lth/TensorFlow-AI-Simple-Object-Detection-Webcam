@@ -1,3 +1,5 @@
+![TensorFlow-AI-Simple-Object-Detection-Webcam](./img/artificial-intelligence-3382507_640.jpg)
+
 TensorFlow-AI-Simple-Object-Detection-Webcam
 ---
 TensorFlow Simple Object Detection with Webcam on a Mac.
