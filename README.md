@@ -9,7 +9,7 @@ TensorFlow Simple Object Detection with Webcam on a Mac.
 #### Setup Anaconda
   - Download/Install Anaconda
     
-    [https://www.anaconda.com](https://www.anaconda.com){:target="_blank"}
+    [https://www.anaconda.com](https://www.anaconda.com)
     
   - Clone Repo
   
